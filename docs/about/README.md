@@ -8,7 +8,7 @@ prev:
   text: Home
   link: /
 next:
-  text: Study Notes
+  text: Dev Notes
   link: /notes/
 ---
 

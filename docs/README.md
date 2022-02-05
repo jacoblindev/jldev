@@ -7,7 +7,7 @@ heroText: Jacob Lin
 tagline: Self-Taught Full-Stack Developer
 actions:
   - text: Dev Notes
-    link: /notes/getting-started.html
+    link: /notes/
     type: primary
   - text: About Me
     link: /about/
