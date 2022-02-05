@@ -18,7 +18,7 @@ features:
     details: Html, CSS, Javascript, Java, Dart, Shell, SQL, Markdown
   - title: Technologies
     details: Bootstrap, jQuery, Node, Vue, Flutter, Spring Boot, Struts, Servlet & JSP, MySQL, Git, GCP
-  - title: Daily Drivers
+  - title: Tools
     details: MacBook Pro Mid-2015, HP ProBook 440 G7, GitHub, VS code, Insomnia, Google Drive.
 footerHtml: true
 footer: Copyright &copy; 2022-present <a href="https://github.com/jacoblindev" rel="noreferrer noopener" target="_blank">Jacob Lin</a> | Power by <a href="https://v2.vuepress.vuejs.org/" rel="noreferrer noopener" target="_blank">Vuepress</a>
