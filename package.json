@@ -1,0 +1,14 @@
+{
+    "name": "jcml-dev",
+    "version": "1.0.0",
+    "description": "Jacob Lin's personal blog site.",
+    "scripts": {
+        "docs:dev": "vuepress dev docs",
+        "docs:build": "vuepress build docs"
+    },
+    "author": "Jacob Lin",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^2.0.0-beta.35"
+    }
+}
