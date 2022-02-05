@@ -2,6 +2,8 @@
 title: About Me
 editLink: false
 sidebar: false
+contributors: false
+lastUpdated: false
 prev:
   text: Home
   link: /
