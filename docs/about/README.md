@@ -3,7 +3,6 @@ title: About Me
 editLink: false
 sidebar: false
 contributors: false
-lastUpdated: false
 prev:
   text: Home
   link: /
@@ -12,13 +11,15 @@ next:
   link: /notes/
 ---
 
-::: tip About Me
-I love learning new things and proactively seeking new concepts. Learning is a habit for me.
+![Just Me](/home/DSC_4511.JPG)
+
+::: tip Hi, I'm Jacob
+Somthing about me...?!
 :::
 
 ## Experiences
 
-### Java Developer / Project Manager
+### Developer / Project Manager
 
 >RT-Mart, Taiwan | _2020 - Present_
 
@@ -27,7 +28,9 @@ I love learning new things and proactively seeking new concepts. Learning is a h
 - Managing, developing and maintaining an internal flow system called e-Flow. Digitized old paper forms flow for different department using NEWTYPE's technology called FlowMaster.
 - Developing and maintaining internal web applications.
 
-::: details Working Holiday Experiences Overseas
+::: details Working Holiday Experiences
+
+![Just Me](/home/DSC_4767.JPG)
 
 ### Building Manager
 
