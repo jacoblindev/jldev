@@ -11,11 +11,14 @@ next:
   link: /notes/
 ---
 
-![Just Me](/home/DSC_4511.JPG)
+![Just Me](/about/the-neck-lookout.webp)
 
 ::: tip Hi, I'm Jacob
+<!-- TODO: Add summery about who i am -->
 Somthing about me...?!
 :::
+
+[[toc]]
 
 ## Experiences
 
@@ -23,34 +26,43 @@ Somthing about me...?!
 
 >RT-Mart, Taiwan | _2020 - Present_
 
-<!-- TODO: finish descriping what i do at rt-mart! -->
+<!-- TODO: Finish descriping what i do at rt-mart! -->
 - Managing a client side App (RT-Mart App) for both platform.
 - Managing, developing and maintaining an internal flow system called e-Flow. Digitized old paper forms flow for different department using NEWTYPE's technology called FlowMaster.
 - Developing and maintaining internal web applications.
 
-::: details Working Holiday Experiences
+### Traveler
 
-![Just Me](/home/DSC_4767.JPG)
+>Australia, Fiji, Tailand, Cambodia, Malaysia, Singapore, Hawaii, Canada | _2014 - 2019_
 
-### Building Manager
+::: details Working Holiday Experience in Canada
+<!-- TODO: Add a photo from canada -->
+
+#### Building Manager
 
 >Alliance Maintenance LTD, Canada | _2018 - 2019_
 
 - Managing 125-unit residential Strata building and responsible for all daily operations and building maintenance.
 
-### Pier Staff
+#### Pier Staff
 
 >Intercruises Shoreside & Port Services, Canada | _2018 - 2019_
 
 - As a check-in agent and port services staff for Celebrity & Disney cruise line et.!
 
-### Shell & Custom Builder
+:::
+
+::: details Working Holiday Experience in Australia
+
+![Just Me](/about/mount-graham.webp)
+
+#### Shell & Custom Builder
 
 >InstallEx, Australia | _2017 - 2018_
 
 - As casual Exhibition builder work on exhibits, event, custom stand and retail installations across Melbourne. Participated in shows like CISCO Live2018, PAX AUS2017 and White Night et.!
 
-### Vaccinator
+#### Vaccinator
 
 >DA Hall (Oak Feed Mill), Australia | _2014 - 2016_
 
@@ -74,6 +86,7 @@ Somthing about me...?!
 - Responsible for a few renovation projects like the Shimen Township recycling plants renovation project and the Tiancheng Commercial Building urban renewal project.
 - Effectively providing architectural design and construction services from concepts through to construction finished.
 
+![The Maria Island](/about/the-maria-island.webp)
 ## Education
 
 ### Certificate of Servlet & JSP
