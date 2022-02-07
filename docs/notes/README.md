@@ -19,6 +19,8 @@ next:
   link: /notes/sample.md
 ---
 
-## Documenting My Journey
+## Here's where I document what I learned so far
 
-![Thought process from unDraw](/notes/undraw_Thought_process.png)
+![Thought process from unDraw](/notes/undraw_Thought_process.webp)
+
+![Process from unDraw](/notes/undraw_Process.webp)
