@@ -36,7 +36,8 @@ Somthing about me...?!
 >Australia, Fiji, Tailand, Cambodia, Malaysia, Singapore, Hawaii, Canada | _2014 - 2019_
 
 ::: details Working Holiday Experience in Canada
-<!-- TODO: Add a photo from canada -->
+
+![Cypress Ski Mountain](/about/cypress-ski-mountain.webp)
 
 #### Building Manager
 
