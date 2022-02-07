@@ -87,6 +87,7 @@ Somthing about me...?!
 - Effectively providing architectural design and construction services from concepts through to construction finished.
 
 ![The Maria Island](/about/the-maria-island.webp)
+
 ## Education
 
 ### Certificate of Servlet & JSP
