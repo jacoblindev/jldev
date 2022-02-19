@@ -4,9 +4,7 @@ editLink: false
 sidebar:
   - text: Frontend
     children: 
-      - text: ABC
-        link: /frontend/abc.md
-      - /notes/sample.md
+      - text: TBC
   - text: Backend
     children: 
       - /notes/test.md
@@ -19,8 +17,22 @@ next:
   link: /notes/sample.md
 ---
 
-## Here's where I document what I learned so far
+## Welcome to my notes
 
-![Thought process from unDraw](/notes/undraw_Thought_process.webp)
+::: tip What is this for?
+Here's where I'll document what I learned so far..., so I can connect the dots later and reinforce my knowledge with more OUTPUT. :monocle_face:
 
-![Process from unDraw](/notes/undraw_Process.webp)
+Since I decided to switch career from Architectural Designer to Developer back in 2019, it's been none stop learning trying to catch up. There's a lot of INPUT, not much OUTPUT, can't shake the feeling of Impostor Syndrome. So, it's time to put some condition to the tutorial hell while loop and break out of it...! :sweat_smile:
+
+``` js:no-line-numbers
+while (input) {
+    // Tutorial Hell
+    ...
+    if (output) input = !input;
+}
+```
+
+*P.S. Please bear with my poor writing skill!* :wink:
+:::
+
+![Thought process from unDraw](/notes/thought_process.webp)
