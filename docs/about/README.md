@@ -13,9 +13,9 @@ next:
 
 ![Just Me](/about/the-neck-lookout.webp)
 
-::: tip Hi, I'm Jacob
+::: tip Hi, I'm Jacob, a Designer turned Developer.
 <!-- TODO: Add summery about who i am -->
-Somthing about me...?!
+I started my coding journey back in July 2019. I've just come back from 4+ years of Working Holiday experiences (_Yeah, long gap years, I know_ :zany_face: ...!).
 :::
 
 [[toc]]
@@ -24,14 +24,14 @@ Somthing about me...?!
 
 ### Developer / Project Manager
 
->RT-Mart, Taiwan | _2020 - Present_
+> RT-Mart, Taiwan | _2020 - Present_
 
 <!-- TODO: Finish descriping what i do at rt-mart! -->
 - Managing a client side App (RT-Mart App) for both platform.
 - Managing, developing and maintaining an internal flow system called e-Flow. Digitized old paper forms flow for different department using NEWTYPE's technology called FlowMaster.
 - Developing and maintaining internal web applications.
 
-### Traveler
+### Working Holiday Traveler
 
 >Australia, Fiji, Tailand, Cambodia, Malaysia, Singapore, Hawaii, Canada | _2014 - 2019_
 
