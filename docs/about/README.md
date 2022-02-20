@@ -11,9 +11,11 @@ next:
   link: /notes/
 ---
 
+## Hi :wave:, I'm Jacob
+
 ![Just Me](/about/the-neck-lookout.webp)
 
-::: tip Hi, I'm Jacob. Here's my journey so far...
+::: tip Here's my journey so far...
 
 > I used to design buildings, but now I build websites. :wink:
 
@@ -34,7 +36,9 @@ Here's some more free resources I use so far:
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [The Ordin Project](https://www.theodinproject.com/)
 - [HackerRank](https://www.hackerrank.com/dashboard)
-- [Codewars](https://www.codewars.com/) ![Codewars Badge](https://www.codewars.com/users/jacoblindev/badges/micro)
+- [Codewars](https://www.codewars.com/)
+
+![Codewars Badge](https://www.codewars.com/users/jacoblindev/badges/micro)
 :::
 
 ## Table of content
@@ -47,10 +51,9 @@ Here's some more free resources I use so far:
 
 > RT-Mart, Taiwan | _2020 - Present_
 
-<!-- TODO: Finish descriping what i do at rt-mart! -->
-- Managing a client side App (RT-Mart App) for both platform.
-- Managing, developing and maintaining an internal flow system called e-Flow. Digitized old paper forms flow for different department using NEWTYPE's technology called FlowMaster.
-- Developing and maintaining internal web applications.
+- Manage an App product as a communicator between internal users & outsourced dev team.
+- Manage, develop, and maintain an internal sign-off flow system using FlowMaster BPM from NewType.
+- Develop and maintain multiple internal web applications.
 
 ### Working Holiday Traveler
 
@@ -58,7 +61,7 @@ Here's some more free resources I use so far:
 
 ::: details Working Holiday Experience in Canada
 
-![Cypress Ski Mountain](/about/cypress-ski-mountain.webp)
+![Me @ Cypress Ski Mountain](/about/cypress-ski-mountain.webp)
 
 #### Building Manager
 
@@ -76,7 +79,7 @@ Here's some more free resources I use so far:
 
 ::: details Working Holiday Experience in Australia
 
-![Just Me](/about/mount-graham.webp)
+![Me @ Mount Graham](/about/mount-graham.webp)
 
 #### Shell & Custom Builder
 
@@ -97,8 +100,7 @@ Here's some more free resources I use so far:
 >W.J.L Architects, Taiwan | _2011 - 2014_
 
 - Designed and Managed multiple public school and residential projects.
-- Engaging in developing, produce and deliver construction documents. Also, managing administration, zoning applications, building code reviews, and bid packages.
-- Responsible for managing nearly 30+ cases of old school renovation projects in the Taoyuan District.
+- Responsible for managing 30+ cases of old school renovation projects in the Taoyuan District.
 
 ### Junior Architectural Designer
 
@@ -106,9 +108,8 @@ Here's some more free resources I use so far:
 
 - Developing design concepts and models on projects of a wide-ranging scale such as airports, stations, leisure spaces, school facilities and pedestrian bridges designs...!
 - Responsible for a few renovation projects like the Shimen Township recycling plants renovation project and the Tiancheng Commercial Building urban renewal project.
-- Effectively providing architectural design and construction services from concepts through to construction finished.
 
-![The Maria Island](/about/the-maria-island.webp)
+![Me @ The Maria Island](/about/the-maria-island.webp)
 
 ## Education
 
