@@ -16,7 +16,7 @@ actions:
 # TODO: Update the features of my site?!
 features:
   - title: Languages
-    details: Html, CSS, Javascript, Java, Dart, SQL
+    details: Html, CSS, Javascript, Java, Dart, SQL, Markdown
   - title: Technologies
     details: Bootstrap, jQuery, Node, Vue, Flutter, Spring Boot, Struts, Servlet & JSP
   - title: Tools
