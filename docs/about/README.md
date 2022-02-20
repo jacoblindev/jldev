@@ -13,10 +13,31 @@ next:
 
 ![Just Me](/about/the-neck-lookout.webp)
 
-::: tip Hi, I'm Jacob, a Designer turned Developer.
-<!-- TODO: Add summery about who i am -->
-I started my coding journey back in July 2019. I've just come back from 4+ years of Working Holiday experiences (_Yeah, long gap years, I know_ :zany_face: ...!).
+::: tip Hi, I'm Jacob. Here's my journey so far...
+
+> I used to design buildings, but now I build websites. :wink:
+
+I started my coding journey back in July 2019 with free online resources such as [freeCodeCamp](https://www.freecodecamp.org/learn), [W3Schools](https://www.w3schools.com/) & [MDN Web Docs](https://developer.mozilla.org/en-US/). I learned the basics of **Html, CSS & JavaScript** `> Hello World!` :technologist:
+
+Then I enrolled in a four-month government-funded training program where I learned **Java, Servlet & JSP, SQL, and the basics of Computer Science**.
+
+I also did a [100daysofcode](https://www.100daysofcode.com/) challenge that really level up my skills. You can check out my [Instagram](https://www.instagram.com/jacoblindev/) for what I did.
+
+After nine months of hard work, I finally landed my first tech job and successfully switch my career from Designer to Developer. Fast forward to now, I'm currently focusing on mastering some frameworks...
+
+- [Vue 3](https://vuejs.org/) for frontend
+- [Spring Boot](https://spring.io/) for backend
+- [Flutter](https://flutter.dev/) for cross-platform apps
+
+Here's some more free resources I use so far:
+
+- [Frontend Mentor](https://www.frontendmentor.io/)
+- [The Ordin Project](https://www.theodinproject.com/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
+- [Codewars](https://www.codewars.com/) ![Codewars Badge](https://www.codewars.com/users/jacoblindev/badges/micro)
 :::
+
+## Table of content
 
 [[toc]]
 
@@ -93,12 +114,12 @@ I started my coding journey back in July 2019. I've just come back from 4+ years
 
 ### Certificate of Servlet & JSP
 
->Taipei City Vocational Development Institute, Taiwan | _2019_
+> Taipei City Vocational Development Institute, Taiwan
 
 ### Diploma of Leadership & Management
 
->Royal Gurkhas Institute of Technology, Australia | _2017_
+> Royal Gurkhas Institute of Technology, Australia
 
 ### Bachelor of Architectural Design
 
->Chung Yuan Christian University, Taiwan | _2008_
+> Chung Yuan Christian University, Taiwan

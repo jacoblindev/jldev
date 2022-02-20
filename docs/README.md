@@ -5,7 +5,7 @@ title: Home
 heroImage: /logoV2@2x.png
 heroAlt: Logo of J.L.Dev
 heroText: Jacob Lin Dev
-tagline: A self-taught developer documenting my journey
+tagline: I used to design buildings, but now I build websites.
 actions:
   - text: Dev Notes
     link: /notes/
