@@ -10,33 +10,23 @@ module.exports = {
         navbar: [
             // NavbarItem
             {
-                text: 'About',
-                link: '/about/',
+                text: 'Notes',
+                link: '/notes/',
             },
             // NavbarGroup
             {
-                text: 'Notes',
-                link: '/notes/',
-                // children: [
-                //     {
-                //         text: 'Frontend',
-                //         link: '/frontend/',
-                //     },
-                //     {
-                //         text: 'Backend',
-                //         link: '/backend/',
-                //     },
-                // ],
-            },
-            {
-                text: 'Projects',
+                text: 'Labs',
                 children: [
                     {
                         text: 'Abc',
                         link: '/abc/',
                     },
                 ]
-            }
+            },
+            {
+                text: 'Jacob',
+                link: '/about/',
+            },
             // string - page file path
             // '/bar/README.md',
         ],

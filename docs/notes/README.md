@@ -19,7 +19,7 @@ next:
 
 ## Welcome to my notes
 
-::: tip What is this for?
+::: tip Hello Notes
 Here's where I'll document what I learned so far..., so I can connect the dots later and reinforce my knowledge & memery with more OUTPUT. :monocle_face:
 
 Since I decided to switch career from Architectural Designer to Developer back in 2019, it's been none stop learning trying to catch up. There's a lot of INPUT, not much OUTPUT, can't shake the feeling of Impostor Syndrome. So, it's time to put some condition to the tutorial hell loop and break out of it...! :sweat_smile:
@@ -36,3 +36,5 @@ while (input) {
 
 ![Thought process from unDraw](/notes/thought_process.webp)
 :::
+
+## Learning Resources
