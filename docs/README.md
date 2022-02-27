@@ -1,11 +1,10 @@
 ---
 home: true
 title: Home
-# heroImage: /home/avatar_clear.png
-heroImage: /logoV2@2x.png
+heroImage: /JLDev-Logo@2x.png
 heroAlt: Logo of J.L.Dev
 heroText: Jacob Lin Dev
-tagline: I used to design buildings, but now I build websites.
+tagline: I used to design buildings..., now I build websites.
 actions:
   - text: Dev Notes
     link: /notes/
