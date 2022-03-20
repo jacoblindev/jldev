@@ -50,7 +50,7 @@ Here's some more free resources I recommended to start your journey:
 
 >Australia, Fiji, Tailand, Cambodia, Malaysia, Singapore, Hawaii, Canada | _2014 - 2019_
 
-::: details Working Holiday Experience in Canada
+::: details Working Experience in Canada
 
 ![Me @ Cypress Ski Mountain](/about/cypress-ski-mountain.webp)
 
@@ -64,7 +64,7 @@ Here's some more free resources I recommended to start your journey:
 
 :::
 
-::: details Working Holiday Experience in Australia
+::: details Working Experience in Australia
 
 ![Me @ Mount Graham](/about/mount-graham.webp)
 

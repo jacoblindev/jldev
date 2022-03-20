@@ -1,14 +1,14 @@
 ---
 title: Dev Notes
 editLink: false
-sidebar:
-  - text: Frontend
-    children: 
-      - text: TBC
-  - text: Backend
-    children: 
-      - /notes/test.md
-      - /notes/sample.md
+sidebar: false
+#   - text: Frontend
+#     children: 
+#       - text: TBC
+#   - text: Backend
+#     children: 
+#       - /notes/test.md
+#       - /notes/sample.md
 prev:
   text: Home
   link: /

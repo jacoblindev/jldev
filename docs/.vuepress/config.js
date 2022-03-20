@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/jldev/',
     lang: 'en-US',
     title: 'JLDev',
     description: 'This is Jacob Lin\'s personal blog site',
@@ -15,6 +16,10 @@ module.exports = {
         navbar: [
             // NavbarItem
             {
+                text: 'Home',
+                link: '/',
+            },
+            {
                 text: 'About',
                 link: '/about/',
             },
@@ -27,8 +32,8 @@ module.exports = {
                 text: 'Projects',
                 children: [
                     {
-                        text: 'Abc',
-                        link: '/abc/',
+                        text: 'FM Challenges',
+                        link: 'https://jacoblindev.github.io/vue-fm-challenges/',
                     },
                 ]
             },
