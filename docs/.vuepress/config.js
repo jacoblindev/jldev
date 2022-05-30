@@ -1,3 +1,5 @@
+const { defaultTheme } = require('@vuepress/theme-default');
+
 module.exports = {
     base: '/jldev/',
     lang: 'en-US',
@@ -14,7 +16,6 @@ module.exports = {
         logo: '/JLDev-Logo@2x.png',
         repo: 'https://github.com/jacoblindev',
         navbar: [
-            // NavbarItem
             {
                 text: 'Home',
                 link: '/',
@@ -27,7 +28,6 @@ module.exports = {
                 text: 'Notes',
                 link: '/notes/',
             },
-            // NavbarGroup
             {
                 text: 'Projects',
                 children: [
@@ -37,8 +37,6 @@ module.exports = {
                     },
                 ]
             },
-            // string - page file path
-            // '/bar/README.md',
         ],
     }),
 }
