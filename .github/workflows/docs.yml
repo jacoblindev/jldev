@@ -33,14 +33,27 @@ jobs:
         with:
           # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
           node-version: 16
-          # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.
-          cache: 'npm'
-          # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
-          cache-dependency-path: package-lock.json
+
+      - name: Cache
+        uses: actions/cache@v3.0.2
+        with:
+          # A list of files, directories, and wildcard patterns to cache and restore
+          path: |
+            **/node_modules
+          # An explicit key for restoring and saving the cache
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      # install dependencies if the cache did not hit
+      - name: Install dependencies
+        if: steps.yarn-cache.outputs.cache-hit != 'true'
+        run: yarn --frozen-lockfile
           
       # run build script
       - name: Build VuePress site
-        run: npm run docs:build
+        run: yarn docs:build
 
       - name: Deploy to GitHub Pages
         # You may pin to the exact commit or the version.
