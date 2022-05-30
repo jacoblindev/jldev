@@ -12,7 +12,7 @@ module.exports = {
 
     themeConfig: {
         logo: '/JLDev-Logo@2x.png',
-        repo: 'https://github.com/jacoblindev',
+        repo: 'https://github.com/jacoblindev/jldev',
         navbar: [
             // NavbarItem
             {
