@@ -10,9 +10,9 @@ module.exports = {
         ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ],
 
-    themeConfig: {
+    theme: defaultTheme({
         logo: '/JLDev-Logo@2x.png',
-        repo: 'https://github.com/jacoblindev/jldev',
+        repo: 'https://github.com/jacoblindev',
         navbar: [
             // NavbarItem
             {
@@ -40,5 +40,5 @@ module.exports = {
             // string - page file path
             // '/bar/README.md',
         ],
-    },
+    }),
 }
