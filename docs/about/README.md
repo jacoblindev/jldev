@@ -42,7 +42,7 @@ Here's some more free resources I recommended to start your journey:
 
 ## Experiences
 
-### Developer / Project Manager
+### Full-Stack Developer / Project Manager
 
 > RT-Mart, Taiwan | _2020 - Present_
 
