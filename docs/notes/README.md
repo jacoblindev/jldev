@@ -5,15 +5,18 @@ sidebar:
   - text: Learning Resources
     children:
       - /notes/resources.md
-  - text: Code Snippet
+  - text: Spring Framework
     children:
-      - /notes/sample.md
+      - /spring/hello-spring-boot.md
+  # - text: Code Snippet
+  #   children:
+  #     - /notes/sample.md
 prev:
   text: Home
   link: /
 next:
-  text: Sample Page
-  link: /notes/sample.md
+  text: Hello Spring Boot
+  link: /spring/hello-spring-boot.md
 ---
 
 ## Welcome to my notes
