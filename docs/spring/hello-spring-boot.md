@@ -4,9 +4,9 @@ editLink: false
 prev:
   text: Dev Notes
   link: /notes/
-next:
-  text: Sample Page
-  link: /notes/sample.md
+# next:
+#   text: Sample Page
+#   link: /notes/sample.md
 ---
 
 ## Getting Start with Spring Boot
