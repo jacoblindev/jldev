@@ -14,9 +14,9 @@ prev:
 ### Overview
 
 Well, nowaday everything is connect through APIs. So, let's see how Spring Boot makes building APIs easy...! Here's what we're going to do:
-- Build a simple Spring Boot Rest API
-- One endpoint that says "Hello Spring Boot"
-- One endpoint that greets you with your name
+- Build a simple Spring Boot Rest API with two endpoints:
+	- One endpoint that says "Hello Spring Boot"
+	- One endpoint that greets you with your name
 
 ### Project Structure
 
@@ -142,7 +142,7 @@ public OpenAPI customOpenAPI() {
 
 ### Create @RestController
 
-To create the two endpoints, all we need is a java class that annotate with `@RestController`. Then annotate the path we want with `@RequestMapping`. At the class level it will apply to all methods in the class; at method level it will append after the class level one if. We can also annotate with `@GetMapping` or `PostMapping` ... to specify Http methods.
+To create the two endpoints, all we need is a java class that annotate with `@RestController`. Then annotate the path we want with `@RequestMapping`. At the class level it will apply to all methods in the class; at method level it will append after the class level one. We can also annotate with `@GetMapping` or `@PostMapping` ... to specify Http methods.
 
 ``` java
 package com.jldev.hellospringboot;
