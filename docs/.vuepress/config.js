@@ -43,7 +43,7 @@ module.exports = {
 
     plugins: [
         googleAnalyticsPlugin({
-            id: 'G-JN75G5K1FL',
+            id: 'G-VWQQ8H1BHX',
         }),
     ],
 }
