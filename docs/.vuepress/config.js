@@ -1,4 +1,5 @@
 const { defaultTheme } = require('@vuepress/theme-default');
+const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 
 module.exports = {
     base: '/jldev/',
@@ -39,4 +40,10 @@ module.exports = {
             },
         ],
     }),
+
+    plugins: [
+        googleAnalyticsPlugin({
+            id: 'G-JN75G5K1FL',
+        }),
+    ],
 }
