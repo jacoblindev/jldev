@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as n,a as e,d as s}from"./app.882488a7.js";const r={},o=e("h2",{id:"somthing-interesting",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#somthing-interesting","aria-hidden":"true"},"#"),s(" Somthing Interesting")],-1),i=[o];function c(_,d){return a(),n("div",null,i)}var l=t(r,[["render",c],["__file","sample.html.vue"]]);export{l as default};
