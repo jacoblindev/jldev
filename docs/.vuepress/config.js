@@ -8,12 +8,12 @@ module.exports = {
         "/": {
             lang: 'en-US',
             title: 'JLDev',
-            description: 'This is Jacob Lin\'s personal blog site',
+            description: 'This is Jacob Lin\'s personal study notes website',
         },
         "/zh/": {
             lang: 'zh-TW',
             title: 'JLDev',
-            description: 'ˊ這是Jacob Lin的個人部落格網站',
+            description: '這是Jacob Lin的個人學習筆記網站',
         },
     },
 
